@@ -1,5 +1,5 @@
 # DSTItemShrineExporter
-Companion mod to the (DSTItemShrine)[CameronTenTen/DSTItemShrine] mod. This part of the mod is server only so that the scripts can be customised without the client needing a copy.  
+Companion mod to the [DSTItemShrine](../../../DSTItemShrine) mod. This part of the mod is server only so that the scripts can be customised without the client needing a copy.  
 This mod outputs a csv record of all the items submitted to the shrine to the mod folder (called itemlog by default).  
 The administrator could run more complicated scoring systems either externally (as a spreadsheet), or by customising the script.  
 
